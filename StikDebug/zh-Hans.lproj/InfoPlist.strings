@@ -1,0 +1,6 @@
+"CFBundleDisplayName" = "Stik调试";
+"CFBundleName" = "StikDebug";
+"NSLocalNetworkUsageDescription" = "StikDebug 需要访问本地网络，以建立与设备的调试连接、管理 JIT 状态与模拟定位。";
+"NSLocationWhenInUseUsageDescription" = "StikDebug 需要访问位置信息，用于模拟 GPS 位置和规划模拟路线。";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "StikDebug 需要持续访问位置信息，以便在后台保持位置模拟。";
+"NSLocationAlwaysUsageDescription" = "StikDebug 需要持续访问位置信息，以便在后台保持位置模拟。";
